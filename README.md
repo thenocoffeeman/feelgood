@@ -1,4 +1,5 @@
-feelgood - Pointers to happy moments (still in development)
+feelgood - Pointers to happy moments
+(still in development)
 
 Life is tough, but it must go on.
 
