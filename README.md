@@ -10,6 +10,8 @@ Going back through these moments is one of the ways to counter your negative fee
 feelgood is a web application which allows users to save all these happy moments.
 
 
+
+
 Inspired by "The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life" - I created a “feelgood” email folder
 (http://blogs.scientificamerican.com/guest-blog/2013/07/21/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 
