@@ -1,4 +1,4 @@
-feelgood - Pointers to happy moments
+feelgood - Pointers to happy moments <br/>
 (still in development)
 
 Life is tough, but it must go on.
