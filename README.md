@@ -5,7 +5,7 @@ Life is tough, but it must go on.
 
 During our life journey, we all will inevitably experience some tough moments, either at work, in a relationship, or in school.
 But we sure all had some moments of happiness, such as the first academic award you got, your first job offers, or some famous quotes that you have read and helped you gained back your confidence.
-Going back through these moments is one of the ways to counter your negative feeling, and help you keep on fighting.
+Going back through these moments is one of the ways to counter your negative feelings.
 
 feelgood is a web application which allows users to save all these happy moments.
 
